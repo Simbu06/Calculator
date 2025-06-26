@@ -1,0 +1,1 @@
+const nums = document.getElementById("screen");

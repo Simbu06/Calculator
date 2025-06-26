@@ -2,6 +2,10 @@
 
 A simple calculator application built with HTML, CSS, and JavaScript. This project provides a clean and responsive interface for performing basic arithmetic operations directly in your web browser.
 
+## Live Demo
+
+Try the calculator online: [Live_Demo](https://simplecalculatorjs123.netlify.app/)
+
 ## Features
 
 - Responsive and user-friendly interface
@@ -64,3 +68,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or feedback, please open an issue or contact the repository owner.
+
+```
